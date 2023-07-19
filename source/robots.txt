@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ccbsfei.netlify.app/sitemap.xml
