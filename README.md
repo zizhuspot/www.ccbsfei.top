@@ -40,7 +40,7 @@ subtitle: 探索世界、分享知识、连接人心
 description: 引领前沿的深度学习与大模型技术潮流网站，AIGC前沿技术集散地，掌握一手技术资料，引导技术发展趋势。
 keywords:
 # 作者名称，会显示在侧边栏
-author: KF
+author: 飞飞
 ```
 
 侧边栏作者信息栏的描述可以在 `_config.butterfly.yml` 文件中修改：
