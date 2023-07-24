@@ -34,7 +34,7 @@ code_word_wrap: true
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://github.com/zizhuspot/ccbsfei || Github || '#24292e'
+  fab fa-github: https://github.com/1oscar || Github || '#24292e'
   fas fa-envelope: mailto:luozhu2021@gmail.com || Email || '#4a7dbe'
   fab fa-twitter: https://twitter.com/luozhu2021 || Twitter || '#00acee'
 
@@ -166,7 +166,7 @@ toc:
 post_copyright:
   enable: true
   decode: false
-  author_href: https://github.com/zizhuspot/ccbsfei
+  author_href: https://github.com/1oscar
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -237,7 +237,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/zizhuspot/ccbsfei
+      link: https://github.com/1oscar
   card_announcement:
     enable: true
     content: 公众号：广告算法技术鉴赏
