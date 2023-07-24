@@ -240,7 +240,7 @@ aside:
       link: https://github.com/zizhuspot/ccbsfei
   card_announcement:
     enable: true
-    content: A simple and elegant blog
+    content: 公众号：广告算法技术鉴赏
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all

@@ -54,7 +54,7 @@ card_author:
 
 ```yml
 card_announcement:
-  content: A simple and elegant blog
+  content: 公众号：广告算法技术鉴赏
 ```
 
 社交信息修改也是在 `_config.butterfly.yml` 文件中修改：
