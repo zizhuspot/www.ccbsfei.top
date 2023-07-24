@@ -61,8 +61,8 @@ card_announcement:
 
 ```yml
 social:
-  fas fa-envelope: mailto:luozhu2021@gmail.com || Email || '#4a7dbe'
-  fab fa-twitter: https://twitter.com/luozhu2021 || Twitter || '#00acee'
+  fas fa-envelope: mailto:ccbsfei@gmail.com || Email || '#4a7dbe'
+  fab fa-twitter: https://twitter.com/ccbsfei || Twitter || '#00acee'
 ```
 
 ## 更换图片
