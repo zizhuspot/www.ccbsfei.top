@@ -174,7 +174,7 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://cdn.jsdelivr.net/gh/youngjuning/images/wechat.png
+    - img: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg
       # link:
       text: 微信打赏
 
