@@ -8,6 +8,7 @@ tags:
   - ai画图
   - clip
 description: 提出来一个非常简单的方法叫clip，也就是 contrast language image pre training
+cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/10019.png
 ---
 
 

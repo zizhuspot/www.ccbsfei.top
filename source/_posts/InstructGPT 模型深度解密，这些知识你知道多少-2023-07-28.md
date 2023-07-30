@@ -11,6 +11,7 @@ tags:
   - 强化学习
 description: 使用PPO来微调SFT模型。输入一个prompt期望得到一个输出。给定一个prompt和response，生成奖励分数。除此之外，增加了KL散度降低奖励模型的过度优化。我们称这个模型为PPO。
 作者把预训练的梯度加入到PPO的梯度中，为了缓和模型在公开数据集中的性能损失。我们称这个模型为PPO-ptx。
+cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/10021.jpg
 ---
 
 ## 摘要&介绍

@@ -10,6 +10,7 @@ tags:
   - diffusion model
   - DALL.E2 
 description: 将clip模型和diffusion models的生成建模框架结合，去解决text-conditional image generation的问题
+cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/10037.jpg
 ---
 
 
