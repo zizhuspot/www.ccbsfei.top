@@ -573,7 +573,7 @@ baidu_analytics:
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: G-1ZMKS9WCX9
 
 # Cloudflare Analytics
 # https://www.cloudflare.com/zh-tw/web-analytics/
@@ -604,8 +604,8 @@ ad:
 # --------------------------------------
 
 site_verification:
-  - name: google-site-verification
-    content: G-1ZMKS9WCX9
+  # - name: google-site-verification
+  #   content: xxxxxxx
   # - name: baidu-site-verification
   #   content: xxxxxxx
 
