@@ -184,7 +184,7 @@ post_edit:
   enable: true
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url: https://github.com/zizhuspot/ccbsfei/edit/main/source/
+  url: https://github.com/zizhuspot/ccbsfei.netlify.app/edit/main/source/
 
 # Related Articles
 related_post:
@@ -497,7 +497,7 @@ twikoo:
 # Giscus
 # https://giscus.app/
 giscus:
-  repo: zizhuspot/ccbsfei
+  repo: zizhuspot/ccbsfei.netlify.app
   repo_id: R_kgDOJ9a-Dw
   category_id: DIC_kwDOJ9a-D84CX_xb
   theme:
@@ -841,7 +841,7 @@ note:
 # It may contain bugs and unstable, give feedback when you find the bugs.
 # https://github.com/MoOx/pjax
 pjax:
-  enable: true
+  enable: false
   exclude:
     # - xxxx
     # - xxxx

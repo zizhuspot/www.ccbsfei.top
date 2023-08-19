@@ -104,7 +104,7 @@ cover:
 
 ```sh
 # 克隆仓库
-$ git clone https://github.com/zizhuspot/ccbsfei.git
+$ git clone https://github.com/zizhuspot/ccbsfei.netlify.app.git
 # 安装依赖
 $ yarn install
 # 运行
