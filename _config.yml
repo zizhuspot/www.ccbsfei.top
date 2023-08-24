@@ -34,6 +34,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  - google0bf470c1dabc1b15.html
   - googledaba3bcb44e9d978.html
   - google656baea4d9430a5b.html
 
