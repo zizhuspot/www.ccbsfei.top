@@ -3,30 +3,31 @@ title: About
 date: 2023-07-23 15:54:03
 ---
 
-## 我是谁
+## Who am I?
 
-皖北人士，小硕一枚，游学于南北之间，既有北方人的豪爽，又兼具南方人的细腻。
+I am a native of northern Anhui, a young master's degree holder, who shuttles between the north and the south, combining the openness of northern people with the delicacy of southern people.
 
-我是一名**程序猿**，热爱**技术**，我在这里分享我的经验和见解，也希望能够与更多人交流和学习。
+I am a **coder** who loves **technology**. Here, I share my experiences and insights, and I hope to exchange and learn from more people.
 
-我也是一名动漫迷，从高中（2008）到现在，没长大的时候喜欢《火影忍者》，长大后喜欢《凡人修仙传》。
+I am also an anime enthusiast. From high school (2008) to now, I liked "Naruto" when I was young, and I like "I Shall Seal the Heavens" as I grew up.
 
-我会在这篇博客里记录我的一些技术思考以及我的生活感悟等。
+In this blog, I will record some of my technical thoughts and my life insights, and so on.
 
-至于博客对我的意义： 记录 与 分享 ； 学习 与 提高；
+As for the significance of the blog to me: **Recording and Sharing**; **Learning and Improving**.
 
-## 我的经历
 
-我在广告行业摸爬滚打很多年，在机器学习，深度学习等领域有着很深的造诣。人生路漫漫，数据开发，工程研发，策略，算法等领域，无论是从0到1，还是从1到99，我都有不错的成熟经验。相信我，你会收获不一样的经验与财富。
+## My Experience
 
-## 我的使命
+I have been working in the advertising industry for many years, and I have deep expertise in fields such as machine learning, deep learning, and more. Life is a journey, and whether it's data development, engineering research and development, strategy, algorithms, or other areas, whether it's starting from scratch or taking things from 1 to 99, I have valuable and mature experience. Trust me, you will gain unique experiences and wealth.
 
-我相信**技术让生活更美好**是我们每个人都应该追求的。我的使命是通过我的工作和生活方式来实现这些价值观，并帮助更多的人找到自己的使命和价值。
+## My Mission
 
-## 联系我
+I believe that **technology makes life better** is something we should all strive for. My mission is to live out these values through my work and way of life, and to help more people find their own purpose and values.
 
-如果您有任何问题或建议，请随时与我联系。您可以通过以下方式找到我：
+## Contact me
 
-- 电子邮件：ccbsfei@gmail.com
+If you have any questions or suggestions, please feel free to contact me. You can reach me through the following methods:
 
-感谢您访问我的网站！
+- email：ccbsfei@gmail.com
+
+Thank you for visiting my website!
