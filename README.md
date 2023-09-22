@@ -71,7 +71,7 @@ social:
 
 ```yml
 # 首页 banner 图片
-index_img: https://cdn.jsdelivr.net/gh/youngjuning/images@main/1689604945346.png
+index_img: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/blog.jpg
 
 # 页面默认头图
 default_top_img: https://s2.loli.net/2023/07/17/leDBhzw8xEnOmS6.png
