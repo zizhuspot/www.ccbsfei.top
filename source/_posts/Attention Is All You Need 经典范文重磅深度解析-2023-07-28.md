@@ -66,9 +66,11 @@ cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/Attention%20Is%20All%
 
 - Application of Attention in our Model
 
-- 在encoder-decoder attention层中（即对应于decoder的中间子层部分），此处的queries来自于上一个decoder层，而keys和values来自于encoder的输出。这使得decoder中的每一个位置都能够捕获输入序列中各个位置的信息。（模仿了sequence-to-sequence模型中的经典encoder-decoder attention机制）
-- 在encoder中所包含的self-attention层，在encoder的一个self-attention层中所有的keys，values，queries都来自于同一处，即encoder上一层的输出。每一个位置都能够捕获上一层所有位置的信息。
-- 在decoder中所包含的的self-attention层，在decoder的一个self-attention层中每个位置能够捕获的是包括此位置及此位置之前的所有位置信息。因为我们需要阻止向左侧方向的信息流动，以此来保护自回归特性（Transformer本质上为自回归模型，序列信息流动方向应向右）。所以在此通过将Softmax输入中对应于非法连接的所有values添加mask进行屏蔽（即屏蔽当前token之后的tokens，使decoder只依赖于当前时刻之前的信息进行预测——屏蔽未来信息），以此来在Scaled Dot-Product Attention内部实现这一点。
+
+- 在encoder-decoder attention层中，queries来源于上一个decoder层，而keys和values来源于encoder的输出，以允许每个decoder位置捕获输入序列各个位置的信息，类似sequence-to-sequence模型的encoder-decoder attention机制。
+- 在encoder的self-attention层中，每个位置可以捕获上一层所有位置的信息，因为所有keys、values和queries都来自同一处，即上一层encoder的输出。
+- 在decoder的self-attention层中，每个位置可以捕获当前位置以及之前所有位置的信息，并通过添加mask来阻止信息向左流动，以保持自回归特性，确保decoder只依赖当前时刻之前的信息进行预测。
+
 
 ### Position-wise Feed-Forward Networks 
 

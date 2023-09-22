@@ -53,5 +53,5 @@ cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/Attention.png
 
 ## 多层Attention
 
-一般用于文本具有层次关系的模型，假设我们把一个document划分成多个句子，在第一层，我们分别对每个句子使用attention计算出一个句向量（也就是单层attention）；在第二层，我们对所有句向量再做attention计算出一个文档向量（也是一个单层attention），最后再用这个文档向量去做任务。
+层次化文本模型使用多层attention来处理文本数据，首先计算句子级别的句向量，然后通过文档级别的attention计算文档向量，最后用文档向量进行任务处理。
 

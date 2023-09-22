@@ -9,7 +9,7 @@ tags:
   - clip模型
   - diffusion model
   - DALL.E2 
-description: 将clip模型和diffusion models的生成建模框架结合，去解决text-conditional image generation的问题
+description: 这意味着利用Clip模型来理解和生成文本描述的视觉概念，然后借助Diffusion Models的技术来生成高质量的图像。这种结合可以实现文本描述到图像的高保真生成，通过Clip模型，文本描述被转化为视觉概念，并且通过Diffusion Models，这些视觉概念被映射成逼真的图像。
 cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/DALL.E2.jpg
 ---
 
@@ -17,8 +17,8 @@ cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/DALL.E2.jpg
 ## 背景
 
 ### CLIP模型：
-构建了文本到图像的联合空间，打通文本图像壁垒，找到图文间的关联
-给定一个文本，CLIP就可以对文本编码获得对应的特征。
+
+构建了文本到图像的联合空间，打通文本图像壁垒，实现了文本描述到图像特征的映射，拓展了文本和图像的关联性。
 
 ### Diffusion models生成建模框架
 利用一种guidance技术，以样本多样性为代价提高了样本保真度。
