@@ -1,6 +1,6 @@
 ---
 title: Learning Transferable Visual Models From Natural Language Supervision
-date: 2023-07-29 22:41:00
+date: 2023-07-26 22:41:00
 categories:
   - AI绘画
 tags:

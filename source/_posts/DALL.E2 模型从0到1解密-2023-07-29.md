@@ -1,6 +1,6 @@
 ---
 title: DALL.E2 模型从0到1解密
-date: 2023-07-29 8:30:00
+date: 2023-08-03 8:30:00
 categories:
   - AI绘画
 tags:

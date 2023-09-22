@@ -1,6 +1,6 @@
 ---
 title: 文本转视频（text-to-video, T2V），另一种方式解读原理，带你走进不一样的世界
-date: 2023-07-28 16:30:00
+date: 2023-08-06 16:30:00
 categories:
   - AI绘画
 tags:

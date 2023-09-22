@@ -1,6 +1,6 @@
 ---
 title: InstructGPT 模型深度解密
-date: 2023-07-30 11:30:00
+date: 2023-07-27 11:30:00
 categories:
   - 大模型
 tags:
