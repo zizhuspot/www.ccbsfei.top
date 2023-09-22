@@ -10,7 +10,7 @@ tags:
   - attention
   - transformer
 description: attention的经典之作，引领了文本走向大模型的基础，作为奠基石，自此以后，大模型百花齐放百家争鸣，这都是这篇文章的功劳。
-cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/10039.png
+cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/Attention%20Is%20All%20You%20Need.jpeg
 ---
 
 

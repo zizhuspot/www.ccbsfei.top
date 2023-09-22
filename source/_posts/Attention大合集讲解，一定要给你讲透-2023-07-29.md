@@ -7,7 +7,7 @@ tags:
   - attention
   - nlp 
 description: attention的大合集，包含所有attention知识
-cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/10038.png
+cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/Attention.png
 ---
 
 ## attention分类

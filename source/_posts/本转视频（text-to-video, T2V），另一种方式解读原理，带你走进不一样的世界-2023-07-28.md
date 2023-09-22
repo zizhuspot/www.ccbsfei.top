@@ -11,7 +11,7 @@ tags:
   - text-to-video
   - T2V
 description: 文生图的一些技术方案的探讨与总结
-cover:  https://cdn.jsdelivr.net/gh/1oscar/image_house@main/10017.png
+cover:  https://cdn.jsdelivr.net/gh/1oscar/image_house@main/T2V.jpg
 ---
 
 ## 概念
