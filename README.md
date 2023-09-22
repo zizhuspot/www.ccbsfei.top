@@ -35,9 +35,9 @@
 如果你对默认生成的站点信息不满意，可以在 `config.yml` 文件中修改：
 
 ```yml
-title: 飞飞的博客
-subtitle: 探索世界、分享知识、连接人心
-description: 引领前沿的深度学习与大模型技术潮流网站，AIGC前沿技术集散地，掌握一手技术资料，引导技术发展趋势。
+title: FeiFei's Blog 
+subtitle: Exploring the World, Sharing Knowledge, Connecting Hearts
+description: The website leading the forefront of deep learning and large-scale model technology trends, AIGC is a hub for cutting-edge technologies, providing firsthand technical information and guiding the trends in technology development.
 keywords:
 # 作者名称，会显示在侧边栏
 author: 飞飞
@@ -47,7 +47,7 @@ author: 飞飞
 
 ```yml
 card_author:
-  description: 探索世界、分享知识、连接人心
+  description: Exploring the World, Sharing Knowledge, Connecting Hearts
 ```
 
 公告也可以在 `_config.butterfly.yml` 文件中修改：

@@ -232,7 +232,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: 探索世界、分享知识、连接人心
+    description: Exploring the World, Sharing Knowledge, Connecting Hearts
     button:
       enable: true
       icon: fab fa-github
