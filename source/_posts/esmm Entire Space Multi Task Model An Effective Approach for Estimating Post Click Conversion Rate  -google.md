@@ -1,10 +1,11 @@
 ---
-title: esmm Entire Space Multi Task Model An Effective Approach for Estimating Post Click Conversion Rate  -google
+title: dcn Deep & Cross Network for Ad Click Predictions -google
 date: 2023-09-15 13:10:00
 categories:
   - 排序模型
 tags:
   - 预估模型 
+  - dcn 
   - 特征工程 
   - Recommender systems
 description: In this paper, we introduce the **Deep&Cross Network (DCN)** model, which not only retains the advantages of DNN models but also more effectively learns bounded-degree feature interactions by introducing a Cross Network. DCN demonstrates feature crossing at each layer, eliminating the need for manual feature engineering. This additional complexity compared to DNN models can be negligible. 
