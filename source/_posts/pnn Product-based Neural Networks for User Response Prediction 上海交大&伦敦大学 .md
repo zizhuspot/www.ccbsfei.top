@@ -5,7 +5,7 @@ categories:
   - 排序模型
 tags:
   - 多任务模型 
-  - din 
+  - pnn 
   - dnn
   - Recommender systems
 description: Improved Learning of Category Feature Embeddings; Incorporation of Second-Order and High-Order Feature Interactions 
