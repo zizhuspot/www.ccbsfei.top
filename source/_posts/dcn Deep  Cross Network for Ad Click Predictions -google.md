@@ -10,6 +10,7 @@ tags:
   - Recommender systems
 description: In this paper, we introduce the **Deep&Cross Network (DCN)** model, which not only retains the advantages of DNN models but also more effectively learns bounded-degree feature interactions by introducing a Cross Network. DCN demonstrates feature crossing at each layer, eliminating the need for manual feature engineering. This additional complexity compared to DNN models can be negligible. 
 cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/2023-09-26_131407.png
+---
 
 ## brief introduction
 

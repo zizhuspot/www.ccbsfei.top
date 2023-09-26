@@ -1,5 +1,5 @@
 ---
-title: deepfm  A Factorization-Machine based Neural Network for CTR Prediction -哈工大
+title: deepfm  A Factorization-Machine based Neural Network for CTR Prediction 哈工大
 date: 2023-09-14 14:10:00
 categories:
   - 排序模型
@@ -10,6 +10,8 @@ tags:
   - Recommender systems
 description: DeepFM draws inspiration from the structure of the Wide & Deep model but replaces the Wide component with the Factorization Machine (FM) model. This eliminates the need for manual feature engineering. What makes DeepFM particularly clever is that it shares weights between the second-order part of the FM model and the embedding layer of the neural network. This weight sharing reduces the number of parameters significantly and speeds up the training process.
 cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/2023-09-26_133156.png
+---
+
 
 ## brief introduction
 
