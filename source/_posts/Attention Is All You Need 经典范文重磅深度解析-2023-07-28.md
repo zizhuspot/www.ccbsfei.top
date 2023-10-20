@@ -9,7 +9,7 @@ tags:
   - GPT3
   - attention
   - transformer
-description: attention的经典之作，引领了文本走向大模型的基础，作为奠基石，自此以后，大模型百花齐放百家争鸣，这都是这篇文章的功劳。
+description: attention的经典之作，引领了文本走向大模型的基础，作为奠基石，自此以后，大模型百花齐放百家争鸣，这都是这篇文章的功劳。 "Attention is a classic work that has led to the foundation of large models for text, serving as a cornerstone. Since then, large models have flourished and blossomed, and all this is thanks to this article."  
 cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/Attention%20Is%20All%20You%20Need.jpeg
 ---
 
@@ -72,6 +72,11 @@ cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/Attention%20Is%20All%
 - 在decoder的self-attention层中，每个位置可以捕获当前位置以及之前所有位置的信息，并通过添加mask来阻止信息向左流动，以保持自回归特性，确保decoder只依赖当前时刻之前的信息进行预测。
 
 
+- In the encoder-decoder attention layer, queries come from the previous decoder layer, while keys and values come from the output of the encoder, allowing each decoder position to capture information from various positions in the input sequence, similar to the encoder-decoder attention mechanism in sequence-to-sequence models.
+- In the self-attention layer of the encoder, each position can capture information from all positions above it, because all keys, values, and queries come from the same place, i.e., the output of the previous layer of the encoder.
+- In the self-attention layer of the decoder, each position can capture information from both current and previous positions. By adding masks, we prevent information from flowing leftward, maintaining the autoregressive property and ensuring that the decoder only relies on information available up to the current time step for prediction.
+
+
 ### Position-wise Feed-Forward Networks 
 
 ![mlp](https://cdn.jsdelivr.net/gh/1oscar/image_house@main/20230729095152.png)
@@ -102,6 +107,28 @@ cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/Attention%20Is%20All%
     - r:邻居个数
 
 ![Why Self-Attention](https://cdn.jsdelivr.net/gh/1oscar/image_house@main/20230729095523.png)
+
+
+- Why is self-attention important?
+
+Self-attention is a method in neural networks for learning complex dependencies between input elements. It allows models to focus not only on local information within a sequence but also capture long-range dependencies. This ability is crucial for tasks like natural language processing, speech recognition, and machine translation.
+
+Here are some advantages of self-attention:
+
+1. Parallel Computation: Compared to recurrent neural networks (RNNs), self-attention can process all elements in a sequence in parallel, greatly improving computational efficiency.
+
+2. Long-Range Dependencies: Self-attention can effectively capture long-range dependencies in a sequence, which is essential for understanding the grammatical and semantic structures in natural language.
+
+3. Interpretability: Self-attention mechanisms provide a degree of interpretability, allowing us to examine the parts of the input that the model focuses on when making predictions.
+
+4. Sparse Interaction: Self-attention often exhibits sparsity, meaning the model only attends to a small subset of elements in the input sequence when making predictions. This helps reduce computational complexity and the number of parameters, improving model efficiency and generalization.
+
+5. Adaptation to Different Scales: Self-attention can adapt to different input scales, such as sentences, paragraphs, or documents, without changing the model's structure.
+
+In summary, self-attention is a powerful tool that aids models in better understanding and processing sequential data.
+
+
+
 
 
 - Training
@@ -147,4 +174,22 @@ cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/Attention%20Is%20All%
 
 ## 我的点评
 绝对的经典只做，因为自从这个发表了之后，先是在各种推荐，广告排序模型场景中见到，然后是大模型开始广泛使用。奠基之作。
+
+It sounds like you're referring to the classic paper that laid the foundation for many applications of attention mechanisms, particularly in recommendation systems and large-scale models. One of the most influential works in this regard is the paper titled "Attention Is All You Need" by Vaswani et al., published in 2017. This paper introduced the Transformer architecture, which marked a significant milestone in the field of natural language processing and machine learning.
+
+The Transformer architecture, as presented in this paper, is indeed a groundbreaking work. It replaced traditional recurrent neural networks (RNNs) in many NLP applications and introduced self-attention mechanisms as a core component. The introduction of the Transformer led to remarkable advancements in various areas, including:
+
+1. **Machine Translation:** Transformers greatly improved the quality of machine translation, and models like "Google's Transformer" (later known as the Transformer model) achieved state-of-the-art performance.
+
+2. **Large Pre-trained Models:** The Transformer architecture paved the way for large pre-trained models like BERT (Bidirectional Encoder Representations from Transformers), GPT (Generative Pre-trained Transformer), and their variants, which have become the basis for numerous NLP applications.
+
+3. **Recommendation Systems:** The attention mechanism introduced in Transformers found applications in recommendation systems, enabling personalized and efficient content recommendation.
+
+4. **Image and Video Processing:** Transformers have been adapted for computer vision tasks, such as image classification and object detection, leading to models like Vision Transformers (ViTs).
+
+5. **Interpretable Attention:** Researchers have explored ways to make attention mechanisms more interpretable and transparent, addressing the need for model explainability.
+
+The paper "Attention Is All You Need" is indeed a classic and pivotal work that triggered a revolution in deep learning and set the stage for many subsequent developments in artificial intelligence.
+
+
 
