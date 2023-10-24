@@ -1,5 +1,5 @@
 ---
-title: Progressive Layered Extraction (PLE)- A Novel Multi-Task  Learning (MTL) Model for Personalized Recommendations -腾讯
+title: PLE改进任务相关性处理方法，提高了多任务学习模型的性能 -腾讯
 date: 2023-09-25 13:08:00
 categories:
   - 排序模型

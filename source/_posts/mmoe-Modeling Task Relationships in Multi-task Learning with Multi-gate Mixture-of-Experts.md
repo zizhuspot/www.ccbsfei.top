@@ -1,5 +1,5 @@
 ---
-title: mmoe-Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts -谷歌
+title: mmoe-专家混合（MoE）结构引入多任务学习 -谷歌
 date: 2023-09-22 10:08:00
 categories:
   - 排序模型

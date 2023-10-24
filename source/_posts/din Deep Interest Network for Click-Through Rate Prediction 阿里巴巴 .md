@@ -1,5 +1,5 @@
 ---
-title: din Deep Interest Network for Click-Through Rate Prediction 阿里巴巴 
+title: din深度兴趣网络的算法思想与框架演进 阿里巴巴 
 date: 2023-09-11 10:00:00
 categories:
   - 排序模型

@@ -1,5 +1,5 @@
 ---
-title: Delayed Feedback Modeling for the Entire Space Conversion Rate Prediction -阿里巴巴
+title: ESDF全空间转化的延迟反馈模型的算法思想与框架 -阿里巴巴
 date: 2023-09-24 22:08:00
 categories:
   - 排序模型

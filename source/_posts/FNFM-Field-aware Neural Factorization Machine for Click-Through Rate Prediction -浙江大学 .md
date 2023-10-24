@@ -1,5 +1,5 @@
 ---
-title: FNFM-Field-aware Neural Factorization Machine for Click-Through Rate Prediction -浙江大学 
+title: FNFM-领域感知神经因子分解机的算法思想与架构 -浙江大学 
 date: 2023-09-19 20:08:00
 categories:
   - 排序模型

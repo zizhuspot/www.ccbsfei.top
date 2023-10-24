@@ -1,5 +1,5 @@
 ---
-title: dien Deep Interest Evolution Network for Click-Through Rate Prediction --阿里巴巴
+title: dien深度兴趣演化网络提取用户的兴趣序列 --阿里巴巴
 date: 2023-09-07 12:11:00
 categories:
   - 排序模型

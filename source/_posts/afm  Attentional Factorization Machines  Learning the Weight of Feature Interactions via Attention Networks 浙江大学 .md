@@ -1,5 +1,5 @@
 ---
-title: afm  Attentional Factorization Machines  Learning the Weight of Feature Interactions via Attention Networks 浙江大学 
+title: afm模型的详细解析-注意力网络来学习不同特征组合- 浙江大学 
 date: 2023-09-12 11:00:00
 categories:
   - 排序模型

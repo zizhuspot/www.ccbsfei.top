@@ -1,5 +1,5 @@
 ---
-title: Discussing the Development Cycle of Deep Learning-Powered Advertising and Recommendation Technologies --article 
+title: 探讨下深度学习驱动的广告和推荐技术的发展周期 --article 
 date: 2023-08-27 12:30:00
 categories:
   - ads system  

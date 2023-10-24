@@ -1,5 +1,5 @@
 ---
-title: pnn Product-based Neural Networks for User Response Prediction 上海交大&伦敦大学 
+title: pnn 类别特征嵌入学习 上海交大&伦敦大学 
 date: 2023-09-10 9:00:00
 categories:
   - 排序模型

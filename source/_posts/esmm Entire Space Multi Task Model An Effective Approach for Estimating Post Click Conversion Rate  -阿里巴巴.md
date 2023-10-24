@@ -1,5 +1,5 @@
 ---
-title: esmm Entire Space Multi Task Model An Effective Approach for Estimating Post Click Conversion Rate  -阿里巴巴
+title: esmm 全空间域建模的思想与架构  -阿里巴巴
 date: 2023-09-16 12:12:00
 categories:
   - 排序模型

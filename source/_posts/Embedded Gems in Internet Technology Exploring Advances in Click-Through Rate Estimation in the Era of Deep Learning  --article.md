@@ -1,5 +1,5 @@
 ---
-title: Embedded Gems in Internet Technology Exploring Advances in Click-Through Rate Estimation in the Era of Deep Learning  --article 
+title: 探索在深度学习时代点击率估计的进展  --article 
 date: 2023-08-31 22:24:00
 categories:
   - 深度学习

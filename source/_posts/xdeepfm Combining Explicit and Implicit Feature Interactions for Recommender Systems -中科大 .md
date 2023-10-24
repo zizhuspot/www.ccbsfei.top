@@ -1,5 +1,5 @@
 ---
-title: xdeepfm Combining Explicit and Implicit Feature Interactions for Recommender Systems -中科大 
+title: xdeepfm 压缩交互网络（CIN）将CIN和经典的DNN结合 -中科大 
 date: 2023-09-18 12:12:00
 categories:
   - 排序模型

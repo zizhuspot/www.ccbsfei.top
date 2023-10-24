@@ -1,5 +1,5 @@
 ---
-title: DEEPFFM Field Attentive Deep Field-aware Factorization Machine -微博 
+title: DEEPFFM 模型深入解析 -微博 
 date: 2023-09-19 19:12:00
 categories:
   - 排序模型

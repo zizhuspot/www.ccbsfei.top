@@ -1,5 +1,5 @@
 ---
-title: esm2-Entire Space Multi-Task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction -阿里
+title: esm2-空间监督多任务模型的算法原理与架构演进 -阿里
 date: 2023-09-21 22:08:00
 categories:
   - 排序模型

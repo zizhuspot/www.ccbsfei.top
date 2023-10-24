@@ -1,5 +1,5 @@
 ---
-title: attention Best Highlights of Attention --oscar author self 
+title: attention 的各种模型的总结与梳理  --oscar author self 
 date: 2023-09-08 08:11:00
 categories:
   - text model 

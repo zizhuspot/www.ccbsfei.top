@@ -1,5 +1,5 @@
 ---
-title: deepfm  A Factorization-Machine based Neural Network for CTR Prediction 哈工大
+title: deepfm  模型原理与框架思想-哈工大
 date: 2023-09-14 14:10:00
 categories:
   - 排序模型

@@ -1,5 +1,5 @@
 ---
-title: nfm  Neural Factorization Machines for Sparse Predictive Analytics 新加坡国立大学 
+title: nfm  有效学习高阶特征又能够捕获非线性关系的模型 新加坡国立大学 
 date: 2023-09-13 13:00:00
 categories:
   - 排序模型

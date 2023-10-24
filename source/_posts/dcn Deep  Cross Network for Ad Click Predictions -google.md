@@ -1,5 +1,5 @@
 ---
-title: dcn Deep  Cross Network for Ad Click Predictions -google
+title: dcn模型的详细解析-（交叉网络更有效地学习有界度特征交互） -google
 date: 2023-09-15 13:10:00
 categories:
   - 排序模型

@@ -1,5 +1,5 @@
 ---
-title: Adaptive Factorization Network Learning Adaptive-Order Feature Interactions -上海交大
+title: AFN 模型的详细解析-- 特征嵌入编码到对数空间  -上海交大
 date: 2023-09-23 12:08:00
 categories:
   - 排序模型
