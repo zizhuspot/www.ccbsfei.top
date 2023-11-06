@@ -9,7 +9,7 @@ tags:
   - 联合建模 
   - 双塔模型
   - 视频推荐
-description: 
+description: 主要介绍视频推荐场景的粗排相关建模路径与思考 
 cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/202311022209.png
 ---
 
