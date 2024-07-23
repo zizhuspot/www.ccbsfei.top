@@ -596,9 +596,9 @@ google_adsense:
 
 # Insert ads manually (手動插入廣告)
 ad:
-  index: <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-fb+5w+4e-db+86" data-ad-client="ca-pub-4963807055498900" data-ad-slot="1249314825" data-page-url="https://pantip.com/" data-override-format="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-  aside: <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4963807055498900" data-ad-slot="7979224767" data-ad-format="auto" data-full-width-responsive="true" data-page-url="https://pantip.com/" data-override-format="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-  post: <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4963807055498900" data-page-url="https://pantip.com/" data-override-format="true" data-ad-slot="1057743134"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  index: <script async crossorigin="anonymous" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-fb+5w+4e-db+86" data-ad-client="ca-pub-4963807055498900" data-ad-slot="1249314825" data-page-url="https://pantip.com" data-override-format="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  aside: <script async crossorigin="anonymous" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4963807055498900" data-ad-slot="7979224767" data-ad-format="auto" data-full-width-responsive="true" data-page-url="http://pantip.com" data-override-format="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  post: <script async crossorigin="anonymous" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4963807055498900" data-page-url="http://pantip.com" data-override-format="true" data-ad-slot="1057743134"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 # Verification (站長驗證)
 # --------------------------------------
@@ -914,7 +914,6 @@ inject:
     - <link rel="stylesheet" href="/custom.css">
   bottom:
     # - <script src="xxxx"></script>
-    - <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
