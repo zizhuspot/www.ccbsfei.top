@@ -588,10 +588,10 @@ microsoft_clarity:
 
 # Google Adsense (谷歌廣告)
 google_adsense:
-  enable: true
+  enable: false
   auto_ads: true
   js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
-  # client: ca-pub-4963807055498900
+  client: ca-pub-4963807055498900
   enable_page_level_ads: true
 
 # Insert ads manually (手動插入廣告)
@@ -914,6 +914,7 @@ inject:
     - <link rel="stylesheet" href="/custom.css">
   bottom:
     # - <script src="xxxx"></script>
+    - <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
