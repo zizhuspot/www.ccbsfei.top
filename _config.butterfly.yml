@@ -53,7 +53,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/blog.jpg
+index_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: https://s2.loli.net/2023/07/17/leDBhzw8xEnOmS6.png
@@ -591,14 +591,14 @@ google_adsense:
   enable: true
   auto_ads: true
   js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
-  client: ca-pub-2904217917380446
+  client: ca-pub-4963807055498900
   enable_page_level_ads: true
 
 # Insert ads manually (手動插入廣告)
 ad:
-  # index: <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-eh-2a+j0+l-sf" data-ad-client="ca-pub-2904217917380446" data-ad-slot="9749989867"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-  # aside: <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2904217917380446" data-ad-slot="2230592490" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-  # post: <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2904217917380446" data-ad-slot="5427601471" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  index: <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-fb+5w+4e-db+86" data-ad-client="ca-pub-4963807055498900" data-ad-slot="1249314825" data-page-url="https://pantip.com/" data-override-format="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  aside: <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4963807055498900" data-ad-slot="7979224767" data-ad-format="auto" data-full-width-responsive="true" data-page-url="https://pantip.com/" data-override-format="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  post: <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4963807055498900" data-page-url="https://pantip.com/" data-override-format="true" data-ad-slot="1057743134"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 # Verification (站長驗證)
 # --------------------------------------
