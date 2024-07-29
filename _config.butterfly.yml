@@ -915,7 +915,6 @@ inject:
     - <script async crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   bottom:
     # - <script src="xxxx"></script>
-    - <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
